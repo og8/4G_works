@@ -35,6 +35,7 @@ class CurryBreadMan extends Hero
      */
     public function getIntro()
     {
+		$i = "masterにのみpushする変更。";
         return '見せて貰おうか。連邦軍のモビルスーツの性能とやらを！';
     }
 }
