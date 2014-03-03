@@ -35,7 +35,7 @@ class CurryBreadMan extends Hero
      */
     public function getIntro()
     {
-        return '見せて貰おうか。連邦軍のモビルスーツの性能とやらを！';
+        return 'F002!!!見せて貰おうか。連邦軍のモビルスーツの性能とやらを！';
     }
 }
 ?>
