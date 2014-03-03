@@ -35,7 +35,12 @@ class CurryBreadMan extends Hero
      */
     public function getIntro()
     {
+<<<<<<< HEAD
         return 'F002!!!見せて貰おうか。連邦軍のモビルスーツの性能とやらを！';
+=======
+		$i = "masterにのみpushする変更。";
+        return '見せて貰おうか。連邦軍のモビルスーツの性能とやらを！';
+>>>>>>> master
     }
 }
 ?>

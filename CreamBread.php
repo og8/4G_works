@@ -24,7 +24,7 @@
 class CreamBread extends Hero 
 {
 
-    protected $name='クリームパンダ';
+    protected $name='クリームパンダ!!!!!F2';
     protected $finish_echo='';
               
     /**
