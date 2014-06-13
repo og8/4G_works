@@ -36,6 +36,7 @@ abstract class Hero
 
     /**
      * 登場
+     * ヒーローが登場するところ
      *
      * @access public
      * @return string
