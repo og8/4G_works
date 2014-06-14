@@ -3,6 +3,7 @@
  * ファイルのコメントブロック
  *
  * PHP versions 5
+ * コメント部分に追記 
  *
  * @category  Example
  * @package   Example
